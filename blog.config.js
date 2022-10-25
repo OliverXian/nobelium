@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'OLIVER BLOG',
   author: 'Oliver',
-  email: 'fdq0vzz1w@mozmail.com',
+  email: 'fdq0vzz1@mozmail.com',
   link: 'https://blog.olioliver.com/',
   description: 'Hello, glad to have you here!',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
